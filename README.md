@@ -23,7 +23,7 @@ The map of the Northwest contains blue points- each of which representing a twee
 
 ### Map 2: Welcome to the South
 
-The map of the Northwest contains blue points- each of which representing a tweet from this area. Here, we can see that the points mostly cover Mississippi, but trickle into Alabama, Tennessee, Arkansas, and Louisiana.
+The map of the South contains orange points- each of which representing a tweet from this area. Here, we can see that the points mostly cover Mississippi, but trickle into Alabama, Tennessee, Arkansas, and Louisiana.
 
 ![South](https://user-images.githubusercontent.com/57443630/164796594-a4261d0c-da4d-4a7a-996b-a162dc93e0b9.png)
 
