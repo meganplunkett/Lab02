@@ -5,7 +5,7 @@
 Lab 02 combines the platforms of GitHub, TextEdit, Numbers, and QGIS to visualize geo-tagged tweets from specified locations. For this assignment, I chose to compare tweets from two U.S. regions that differ culturally and politically- the Northwest region and the South. 
 
 ### Why these regions?
-Especially given that today is Earth Day, I was curious to see if there would be more tweets about the holiday in a left-leaning area. I was also curious to see if there would be generally any stereotypical words tweeted in these regions- examples being "guns" or "rights" for the South and "science" or "mountains" for the Northwest.
+Especially given Earth Day has us more cognisant than ever about how our actions impact the planet, I was curious to see if there would be more tweets about the holiday in a left-leaning area. I was also curious to see if there would be generally any stereotypical words tweeted in these regions- examples being "guns" or "rights" for the South and "science" or "mountains" for the Northwest.
 
 ### What did we do?
 Using a Twitter API and web crawler, I was able to create a .csv file of tweets from each location. This .csv was used for maps (on QGIS) and word clouds (on Wordart.com).
